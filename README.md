@@ -2,8 +2,6 @@
 ## Introduction ⚓
 It is the primitive implementation for SIB-Net, which considers three relations for context-aware emotion recognition. 
 
-It would be helpful for your reimplementation or following.
-
 ## Citation 🌹
 ```
 @INPROCEEDINGS{9484370,  
