@@ -1,10 +1,8 @@
 # SIB-Net 
-## Statement ⚓
-It is the primitive implementation for SIB-Net, which considers three relations for context-aware emotion recognition. 🔥 This repository includes modules details, data preprocess, training strategy and confusion analysis. 💗
+## Introduction ⚓
+It is the primitive implementation for SIB-Net, which considers three relations for context-aware emotion recognition. 
 
-It would be helpful for your reimplementation or following, although I am not sure. 😅 You know, figuring out from HUNDREDS of THOUSANDS of experimnets files is struggling and confusing. 💢
-
-Anyway, fighting !!! I will continue to update this repository, if you need. 💋 But it takes time :).
+It would be helpful for your reimplementation or following.
 
 ## Citation 🌹
 ```
